@@ -1,28 +1,21 @@
 {
   "files": {
-    "main.js": "/needleweb/static/js/main.e2ccf3e3.chunk.js",
-    "main.js.map": "/needleweb/static/js/main.e2ccf3e3.chunk.js.map",
-    "runtime-main.js": "/needleweb/static/js/runtime-main.98e1a1a4.js",
-    "runtime-main.js.map": "/needleweb/static/js/runtime-main.98e1a1a4.js.map",
-    "static/js/2.5ceccdf1.chunk.js": "/needleweb/static/js/2.5ceccdf1.chunk.js",
-    "static/js/2.5ceccdf1.chunk.js.map": "/needleweb/static/js/2.5ceccdf1.chunk.js.map",
+    "main.js": "/needleweb/static/js/main.ba468c40.js",
+    "static/media/PC.svg": "/needleweb/static/media/PC.9ff3cabe706e46b72a13b5d9092d1283.svg",
+    "static/media/AppIcon.svg": "/needleweb/static/media/AppIcon.627fcb2353f0dd6d2cbe99f304f635b1.svg",
+    "static/media/ColoredLogo.svg": "/needleweb/static/media/ColoredLogo.7a76daf3fa86142dc4239addc1b3a32d.svg",
+    "static/media/Alinhados.svg": "/needleweb/static/media/Alinhados.9da306d0578a49cb62117dc1e2455fe4.svg",
+    "static/media/gerencie.svg": "/needleweb/static/media/gerencie.cc0a0853a8e5db8e54dc51bf534f75f1.svg",
+    "static/media/Documentacao.svg": "/needleweb/static/media/Documentacao.c7ebe36365be29abc34c9b3788137c4e.svg",
+    "static/media/yarn.svg": "/needleweb/static/media/yarn.462fe70473ed6d6de4bd16ab0954f6ba.svg",
+    "static/media/Flower.svg": "/needleweb/static/media/Flower.4280b1eeed3cedc7ea85a995f47bed14.svg",
+    "static/media/line.svg": "/needleweb/static/media/line.e483a77b788f38f29f4143c9b27f7208.svg",
     "index.html": "/needleweb/index.html",
-    "static/js/2.5ceccdf1.chunk.js.LICENSE.txt": "/needleweb/static/js/2.5ceccdf1.chunk.js.LICENSE.txt",
-    "static/media/Alinhados.9da306d0.svg": "/needleweb/static/media/Alinhados.9da306d0.svg",
-    "static/media/AppIcon.627fcb23.svg": "/needleweb/static/media/AppIcon.627fcb23.svg",
-    "static/media/ColoredLogo.7a76daf3.svg": "/needleweb/static/media/ColoredLogo.7a76daf3.svg",
-    "static/media/Documentacao.c7ebe363.svg": "/needleweb/static/media/Documentacao.c7ebe363.svg",
-    "static/media/Flower.4280b1ee.svg": "/needleweb/static/media/Flower.4280b1ee.svg",
-    "static/media/Folder.d43f8420.svg": "/needleweb/static/media/Folder.d43f8420.svg",
-    "static/media/PC.9ff3cabe.svg": "/needleweb/static/media/PC.9ff3cabe.svg",
-    "static/media/Star.20c0a603.svg": "/needleweb/static/media/Star.20c0a603.svg",
-    "static/media/gerencie.cc0a0853.svg": "/needleweb/static/media/gerencie.cc0a0853.svg",
-    "static/media/line.e483a77b.svg": "/needleweb/static/media/line.e483a77b.svg",
-    "static/media/yarn.462fe704.svg": "/needleweb/static/media/yarn.462fe704.svg"
+    "static/media/Folder.svg": "/needleweb/static/media/Folder.d43f8420f89781631da8ddeb75a0c24a.svg",
+    "static/media/Star.svg": "/needleweb/static/media/Star.20c0a6032c3efdbecc3f1dd63db3af84.svg",
+    "main.ba468c40.js.map": "/needleweb/static/js/main.ba468c40.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.98e1a1a4.js",
-    "static/js/2.5ceccdf1.chunk.js",
-    "static/js/main.e2ccf3e3.chunk.js"
+    "static/js/main.ba468c40.js"
   ]
 }
