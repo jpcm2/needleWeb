@@ -19,17 +19,17 @@ const References: React.FC = () => {
   const [content, setContent] = useState([
     {
       title: "Documentação Otimizada",
-      link: "https://www.linkedin.com/in/vitoria-pinheiro/",
+      link: "https://instagram.com/needle_oficial?igshid=MzRlODBiNWFlZA==",
       text: "Maximize a eficiência da sua documentação com nosso app."
     },
     {
       title: "Equipes Alinhadas",
-      link: "https://www.linkedin.com/in/vitoria-pinheiro/",
+      link: "https://instagram.com/needle_oficial?igshid=MzRlODBiNWFlZA==",
       text: "O alinhamento eficaz de equipes é o alicerce de uma empresa sólida"
     },
     {
       title: "Gerencie Tarefas",
-      link: "https://www.linkedin.com/in/vitoria-pinheiro/",
+      link: "https://instagram.com/needle_oficial?igshid=MzRlODBiNWFlZA==",
       text: "Organize a documentação das suas tasks de forma inteligente"
     }
 
