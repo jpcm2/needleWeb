@@ -1,5 +1,4 @@
-import React, { useState, useEffect } from 'react';
-import axios from 'axios';
+import React, { useState } from 'react';
 import {
   Container,
   Evaluation,
@@ -17,7 +16,7 @@ import {
 import {ReactComponent as Line} from '../../Assets/line.svg';
 
 const Goals:React.FC = () => {
-  const [goal, setGoal] = useState(["Alinhar", "Organizar", "Documentar"])
+  const [goal] = useState(["Alinhar", "Organizar", "Documentar"])
 
   return(
     <Container>

@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import {
   Title,
-  ContentIconBackground,
   ContentIconContainer,
   ContentMedia,
   ContentCard,
@@ -16,7 +15,7 @@ import { ReactComponent as Float } from '../../Assets/gerencie.svg';
 import { ReactComponent as Folder } from '../../Assets/Folder.svg';
 
 const References: React.FC = () => {
-  const [content, setContent] = useState([
+  const [content] = useState([
     {
       title: "Documentação Otimizada",
       link: "https://instagram.com/needle_oficial?igshid=MzRlODBiNWFlZA==",
